@@ -1,0 +1,1778 @@
+
+
+
+
+<!doctype html>
+<html
+  class="windows no-js"
+  lang="en"
+  dir="ltr"
+  data-country-code="DE"
+  data-needs-consent="True"
+  data-latest-firefox="149.0.2"
+  data-esr-versions="140.9.1"
+  
+  data-gtm-container-id="GTM-527L9RBL"
+  
+  
+  data-stub-attribution-rate="1.0"
+  
+  
+  data-sentry-dsn="https://bbb4b8f5275e68de10cfe61262ebc3d2@o1069899.ingest.us.sentry.io/4508966604242944"
+  
+  
+  
+  
+  
+>
+
+  <head>
+    <meta charset="utf-8">
+     
+
+
+
+<script data-cfasync="false" src="https://transcend-cdn.com/cm/d556c3a1-e57c-4bdf-a490-390a1aebf6dd/airgap.js"></script>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+    
+    <title>
+  Download Firefox in English (US) and more than 90 other languages
+ — Firefox.com</title>
+    <meta name="description" content="Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make Firefox available in more than 90 languages.">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Firefox">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://www.firefox.com/en-US/download/all/desktop-beta/win64-msi/">
+    <meta property="og:image" content="https://www.firefox.com/media/img/firefox/flare/og.4d50d9b1674b.png">
+    <meta property="og:title" content="Firefox">
+    <meta property="og:description" content="">
+    <meta property="fb:page_id" content="14696440021">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@firefox">
+    <meta name="twitter:domain" content="firefox.com">
+    <meta name="twitter:app:name:googleplay" content="Firefox">
+    <meta name="twitter:app:id:googleplay" content="org.mozilla.firefox">
+    <meta name="twitter:app:name:iphone" content="Firefox">
+    <meta name="twitter:app:id:iphone" content="989804926">
+    <meta name="twitter:app:name:ipad" content="Firefox">
+    <meta name="twitter:app:id:ipad" content="989804926">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://www.firefox.com/media/img/favicons/firefox/browser/apple-touch-icon.79c2abeb4e35.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="https://www.firefox.com/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png">
+    <link rel="shortcut icon" href="https://www.firefox.com/media/img/favicons/firefox/browser/favicon.f093404c0135.ico">
+    
+    
+  
+    
+    <meta name="robots" content="none">
+  
+
+    
+
+    
+    
+    <!-- IE 10/11 only --><link href="https://www.firefox.com/media/css/flare26_base.f80361e93b5b.css" rel="stylesheet" type="text/css" media="all and (-ms-high-contrast: none)"><!-- end IE 10/11 only -->
+    <!--[if lte IE 9]><link href="https://www.firefox.com/media/css/flare26_base.f80361e93b5b.css" rel="stylesheet" type="text/css"><![endif]-->
+    <link href="https://www.firefox.com/media/css/flare26.571de94bd7e8.css" rel="stylesheet" type="text/css">
+    
+    
+
+    
+
+    
+    <script src="https://www.firefox.com/media/js/site.4dabcff0fc9f.js"></script>
+    
+    
+    <script src="https://www.firefox.com/media/js/gtm-snippet.75f2d1f2194b.js"></script>
+    
+    
+  </head>
+
+  <body class="html-ltr " >
+    
+
+    
+    
+
+<header class="fl-header
+  
+    enable-sticky
+    
+    
+">
+  <div class="fl-header-inner">
+    <a href="/en-US/" class="fl-logo-fx" aria-label="Firefox">
+      <img
+        src="/media/img/logos/firefox/logo-word-hor-2026.svg"
+        alt="Firefox"
+        width="120"
+        height="40"
+      />
+    </a>
+    
+    <nav class="fl-nav" data-testid="navigation-menu-items">
+      
+        <ul class="fl-nav-menu">
+          
+
+
+
+<li class="fl-menu-category" data-testid="menu-category-browser">
+  <a
+    href="#"
+    class="fl-menu-title"
+    aria-haspopup="true"
+    aria-controls="fl-menu-panel-browser"
+    data-testid="navigation-link-browser"
+  >
+    <h2 class="fl-menu-heading">
+      Browser
+      <span class="fl-icon fl-icon-chevron-down"></span>
+    </h2>
+  </a>
+  <div class="fl-menu-panel" id="fl-menu-panel-browser" data-testid="navigation-menu-browser">
+    <button class="fl-menu-close-button">
+      <span class="fl-icon fl-icon-close fl-menu-close-button-content">Close menu</span>
+    </button>
+
+
+    <div class="fl-menu-panel-content">
+      <div class="fl-menu-panel-content-column">
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/mobile/"
+              data-link-text="Mobile"
+              data-link-position="topnav - mobile"
+              data-testid="navigation-menu-link-mobile"
+            >
+              <span class="fl-icon fl-icon-device-mobile"></span>
+              Mobile
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/browsers/enterprise/"
+              data-link-text="Enterprise"
+              data-link-position="topnav - enterprise"
+            >
+              <span class="fl-icon fl-icon-globe"></span>
+              Enterprise
+            </a>
+          </li>
+        </ul>
+
+        <span class="fl-nav-separator"></span>
+
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=browser"
+              data-link-text="Extensions & Themes"
+              data-link-position="topnav - addons"
+            >
+              <span class="fl-icon fl-icon-extension-fill"></span>
+              Extensions &amp; Themes
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="https://support.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=browser"
+              data-link-text="Support"
+              data-link-position="topnav - support"
+            >
+              <span class="fl-icon fl-nav-icon-avatar-info-circle"></span>
+              Support
+            </a>
+          </li>
+        </ul>
+
+        <span class="fl-nav-separator"></span>
+
+        
+
+<a
+  class="fl-button button-ghost fl-button-small"
+  href="/en-US/download/"
+  
+  
+  
+  
+  
+>
+  
+  Download Firefox
+  
+</a>
+      </div>
+    </div>
+  </div>
+</li>
+          
+
+<li class="fl-menu-category" data-testid="menu-category-features">
+  <a
+    class="fl-menu-title"
+    href="/en-US/features/"
+    aria-haspopup="true"
+    aria-controls="fl-menu-panel-features"
+  >
+    <h2 class="fl-menu-heading">
+      Features
+      <span class="fl-icon fl-icon-chevron-down"></span>
+    </h2>
+  </a>
+  <div class="fl-menu-panel" id="fl-menu-panel-features" data-testid="menu-panel-features">
+    <button class="fl-menu-close-button">
+      <span class="fl-icon fl-icon-close fl-menu-close-button-content">Close menu</span>
+    </button>
+    <div class="fl-menu-panel-content">
+      <div class="fl-menu-panel-content-column">
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/features/protection/"
+              data-link-text="Protection"
+              data-link-position="topnav - protection"
+            >
+              <span class="fl-icon fl-nav-icon-lock"></span>
+              Protection
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/features/control/"
+              data-link-text="Control"
+              data-link-position="topnav - control"
+            >
+              <span class="fl-icon fl-icon-cursor-arrow"></span>
+              Control
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/features/focus/"
+              data-link-text="Focus"
+              data-link-position="topnav - focus"
+            >
+              <span class="fl-icon fl-icon-search"></span>
+              Focus
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/features/"
+              data-link-text="About Firefox features"
+              data-link-position="topnav - about firefox features"
+            >
+              About Firefox features
+              <span class="fl-icon fl-icon-forward"></span>
+            </a>
+          </li>
+        </ul>
+
+        <span class="fl-nav-separator"></span>
+
+        
+
+<a
+  class="fl-button button-ghost fl-button-small"
+  href="/en-US/features/all/"
+  
+  
+  
+  
+  
+>
+  
+  View all Firefox Features
+  
+</a>
+      </div>
+    </div>
+  </div>
+</li>
+          
+
+
+
+<li class="fl-menu-category" data-testid="menu-category-resources">
+  <a
+    href="#"
+    class="fl-menu-title"
+    aria-haspopup="true"
+    aria-controls="fl-menu-panel-resources"
+    data-testid="navigation-link-resources"
+  >
+    <h2 class="fl-menu-heading">
+      Resources
+      <span class="fl-icon fl-icon-chevron-down"></span>
+    </h2>
+  </a>
+  <div class="fl-menu-panel" id="fl-menu-panel-resources" data-testid="navigation-menu-resources">
+    <button class="fl-menu-close-button">
+      <span class="fl-icon fl-icon-close fl-menu-close-button-content">Close menu</span>
+    </button>
+
+
+    <div class="fl-menu-panel-content">
+      <div class="fl-menu-panel-content-column">
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/user-privacy/"
+              data-link-text="Data Protection"
+              data-link-position="topnav - data protection"
+              data-testid="navigation-menu-link-data-protection"
+            >
+              <span class="fl-icon fl-nav-icon-lock"></span>
+              Data Protection
+            </a>
+          </li>
+          
+          <li>
+            <a
+              class="fl-nav-link"
+              href="https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=resources"
+              data-link-text="Blog"
+              data-link-position="topnav - blog"
+            >
+              <span class="fl-icon fl-nav-icon-reader-view"></span>
+              Blog
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="https://www.youtube.com/@firefox/podcasts?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=resources"
+              data-link-text="Podcast"
+              data-link-position="topnav - podcast"
+            >
+              <span class="fl-icon fl-icon-microphone-true"></span>
+              Podcast
+            </a>
+          </li>
+        </ul>
+
+        <span class="fl-nav-separator"></span>
+
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/newsletter/"
+              data-link-text="Newsletter"
+              data-link-position="topnav - newsletter"
+            >
+              <span class="fl-icon fl-icon-notifications-true"></span>
+              Newsletter
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/firefox/notes/"
+              data-link-text="Release Notes"
+              data-link-position="topnav - release notes"
+            >
+              <span class="fl-icon fl-nav-icon-reader-view"></span>
+              Release Notes
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</li>
+        </ul>
+      
+      <div class="fl-nav-mobile-download-link">
+        
+
+
+<div
+    class="nav-cta-wrap  "
+>
+  
+
+
+
+
+
+
+
+<div class="fl-download-firefox-button c-button-download-thanks" id="nav-download-firefox">
+  <a href="/thanks/"
+     class="download-link fl-button  "
+     data-direct-link="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=en-US"
+     data-testid="download-firefox-button__download-link"
+     data-cta-text="Get Firefox"
+     data-cta-position="nav"
+     data-cta-uid="nav-download-firefox"
+  >
+    
+      
+
+<span class="fl-icon fl-icon-left  fl-icon-downloads" aria-hidden="true" ></span>
+    
+    Get Firefox
+    
+  </a>
+  
+
+  
+
+  
+</div>
+</div>
+
+      </div>
+    </nav>
+    <div class="fl-header-buttons">
+      <div class="fl-header-main-download-button">
+        
+
+
+<div
+    class="nav-cta-wrap  "
+>
+  
+
+
+
+
+
+
+
+<div class="fl-download-firefox-button c-button-download-thanks" id="nav-download-firefox">
+  <a href="/thanks/"
+     class="download-link fl-button  "
+     data-direct-link="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=en-US"
+     data-testid="download-firefox-button__download-link"
+     data-cta-text="Get Firefox"
+     data-cta-position="nav"
+     data-cta-uid="nav-download-firefox"
+  >
+    
+      
+
+<span class="fl-icon fl-icon-left  fl-icon-downloads" aria-hidden="true" ></span>
+    
+    Get Firefox
+    
+  </a>
+  
+
+  
+
+  
+</div>
+</div>
+
+      </div>
+      
+        <button class="fl-show-mobile-menu" type="button" data-testid="navigation-menu-button">
+          <span class="fl-show-mobile-menu-content">
+            <span class="fl-icon fl-icon-app-menu" aria-label="Menu"></span>
+            <span class="fl-icon fl-icon-close" aria-label="Close"></span>
+            <span class="fallback-text">Menu</span>
+          </span>
+        </button>
+      
+    </div>
+    
+
+    <div class="fl-ie-only fl-nav">
+      <a class="ie-menu-button" href="#">Menu</a>
+      <ul class="fl-nav-menu">
+        
+
+
+
+<li class="fl-menu-category" data-testid="menu-category-browser">
+  <a
+    href="#"
+    class="fl-menu-title"
+    aria-haspopup="true"
+    aria-controls="fl-menu-panel-browser"
+    data-testid="navigation-link-browser"
+  >
+    <h2 class="fl-menu-heading">
+      Browser
+      <span class="fl-icon fl-icon-chevron-down"></span>
+    </h2>
+  </a>
+  <div class="fl-menu-panel" id="fl-menu-panel-browser" data-testid="navigation-menu-browser">
+    <button class="fl-menu-close-button">
+      <span class="fl-icon fl-icon-close fl-menu-close-button-content">Close menu</span>
+    </button>
+
+
+    <div class="fl-menu-panel-content">
+      <div class="fl-menu-panel-content-column">
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/mobile/"
+              data-link-text="Mobile"
+              data-link-position="topnav - mobile"
+              data-testid="navigation-menu-link-mobile"
+            >
+              <span class="fl-icon fl-icon-device-mobile"></span>
+              Mobile
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/browsers/enterprise/"
+              data-link-text="Enterprise"
+              data-link-position="topnav - enterprise"
+            >
+              <span class="fl-icon fl-icon-globe"></span>
+              Enterprise
+            </a>
+          </li>
+        </ul>
+
+        <span class="fl-nav-separator"></span>
+
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=browser"
+              data-link-text="Extensions & Themes"
+              data-link-position="topnav - addons"
+            >
+              <span class="fl-icon fl-icon-extension-fill"></span>
+              Extensions &amp; Themes
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="https://support.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=browser"
+              data-link-text="Support"
+              data-link-position="topnav - support"
+            >
+              <span class="fl-icon fl-nav-icon-avatar-info-circle"></span>
+              Support
+            </a>
+          </li>
+        </ul>
+
+        <span class="fl-nav-separator"></span>
+
+        
+
+<a
+  class="fl-button button-ghost fl-button-small"
+  href="/en-US/download/"
+  
+  
+  
+  
+  
+>
+  
+  Download Firefox
+  
+</a>
+      </div>
+    </div>
+  </div>
+</li>
+        
+
+<li class="fl-menu-category" data-testid="menu-category-features">
+  <a
+    class="fl-menu-title"
+    href="/en-US/features/"
+    aria-haspopup="true"
+    aria-controls="fl-menu-panel-features"
+  >
+    <h2 class="fl-menu-heading">
+      Features
+      <span class="fl-icon fl-icon-chevron-down"></span>
+    </h2>
+  </a>
+  <div class="fl-menu-panel" id="fl-menu-panel-features" data-testid="menu-panel-features">
+    <button class="fl-menu-close-button">
+      <span class="fl-icon fl-icon-close fl-menu-close-button-content">Close menu</span>
+    </button>
+    <div class="fl-menu-panel-content">
+      <div class="fl-menu-panel-content-column">
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/features/protection/"
+              data-link-text="Protection"
+              data-link-position="topnav - protection"
+            >
+              <span class="fl-icon fl-nav-icon-lock"></span>
+              Protection
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/features/control/"
+              data-link-text="Control"
+              data-link-position="topnav - control"
+            >
+              <span class="fl-icon fl-icon-cursor-arrow"></span>
+              Control
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/features/focus/"
+              data-link-text="Focus"
+              data-link-position="topnav - focus"
+            >
+              <span class="fl-icon fl-icon-search"></span>
+              Focus
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/features/"
+              data-link-text="About Firefox features"
+              data-link-position="topnav - about firefox features"
+            >
+              About Firefox features
+              <span class="fl-icon fl-icon-forward"></span>
+            </a>
+          </li>
+        </ul>
+
+        <span class="fl-nav-separator"></span>
+
+        
+
+<a
+  class="fl-button button-ghost fl-button-small"
+  href="/en-US/features/all/"
+  
+  
+  
+  
+  
+>
+  
+  View all Firefox Features
+  
+</a>
+      </div>
+    </div>
+  </div>
+</li>
+        
+
+
+
+<li class="fl-menu-category" data-testid="menu-category-resources">
+  <a
+    href="#"
+    class="fl-menu-title"
+    aria-haspopup="true"
+    aria-controls="fl-menu-panel-resources"
+    data-testid="navigation-link-resources"
+  >
+    <h2 class="fl-menu-heading">
+      Resources
+      <span class="fl-icon fl-icon-chevron-down"></span>
+    </h2>
+  </a>
+  <div class="fl-menu-panel" id="fl-menu-panel-resources" data-testid="navigation-menu-resources">
+    <button class="fl-menu-close-button">
+      <span class="fl-icon fl-icon-close fl-menu-close-button-content">Close menu</span>
+    </button>
+
+
+    <div class="fl-menu-panel-content">
+      <div class="fl-menu-panel-content-column">
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/user-privacy/"
+              data-link-text="Data Protection"
+              data-link-position="topnav - data protection"
+              data-testid="navigation-menu-link-data-protection"
+            >
+              <span class="fl-icon fl-nav-icon-lock"></span>
+              Data Protection
+            </a>
+          </li>
+          
+          <li>
+            <a
+              class="fl-nav-link"
+              href="https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=resources"
+              data-link-text="Blog"
+              data-link-position="topnav - blog"
+            >
+              <span class="fl-icon fl-nav-icon-reader-view"></span>
+              Blog
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="https://www.youtube.com/@firefox/podcasts?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=resources"
+              data-link-text="Podcast"
+              data-link-position="topnav - podcast"
+            >
+              <span class="fl-icon fl-icon-microphone-true"></span>
+              Podcast
+            </a>
+          </li>
+        </ul>
+
+        <span class="fl-nav-separator"></span>
+
+        <ul>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/newsletter/"
+              data-link-text="Newsletter"
+              data-link-position="topnav - newsletter"
+            >
+              <span class="fl-icon fl-icon-notifications-true"></span>
+              Newsletter
+            </a>
+          </li>
+          <li>
+            <a
+              class="fl-nav-link"
+              href="/en-US/firefox/notes/"
+              data-link-text="Release Notes"
+              data-link-position="topnav - release notes"
+            >
+              <span class="fl-icon fl-nav-icon-reader-view"></span>
+              Release Notes
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</li>
+      </ul>
+    </div>
+  </div>
+</header>
+    
+
+    
+    
+
+    
+  
+
+
+
+
+<main id="partial-target" class="fl-download-all fl-main"  data-current="desktop-beta">
+  
+
+
+
+<div
+  class="
+    fl-intro
+    
+    
+    
+    
+    
+  "
+  
+>
+  
+  <div class="fl-intro-content">
+    
+    
+
+
+  <hgroup class="fl-heading-group fl-new-class-example">
+    
+    
+      <h1 class="fl-heading  fl-heading-md" >
+        Choose which Firefox Browser to download in your language
+      </h1>
+    
+    
+      <p class="fl-subheading  fl-new-class-example">Everyone deserves access to the internet — your language should never be a barrier. That’s why — with the help of dedicated volunteers around the world — we make Firefox available in more than 90 languages.</p>
+    
+  </hgroup>
+
+      
+    
+    
+    
+  </div>
+  
+</div>
+
+  <div class="fl-c-flow-wrapper">
+    <section class="fl-c-flow-links fl-t-flow-links-mobile">
+      
+        
+          <ul class="fl-c-unstyled-list">
+            <li><a href="/en-US/firefox/beta/system-requirements/">Check the system requirements</a></li>
+            <li><a href="/en-US/firefox/beta/notes/">Release notes</a></li>
+            <li><a href="https://firefox-source-docs.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=firefox-all">Source code</a></li>
+          </ul>
+        
+      
+      <ul class="fl-c-unstyled-list">
+        <li><a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=firefox-all">Firefox Privacy Notice</a></li>
+        <li><a href="https://support.mozilla.org/products/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=firefox-all&utm_content=need-help-link">Need help?</a></li>
+      </ul>
+    </section>
+    <section class="fl-c-flow-steps">
+      
+
+
+
+<div tabindex="-1" aria-labelledby="all-product" class="fl-c-flow-section c-step-name">
+  <div class="fl-c-flow-step">
+    <span class="fl-c-flow-step-checkbox">
+
+<span class="fl-icon   fl-icon-checkmark" ></span></span>
+    <h2 id="all-product" class="fl-c-flow-step-title fl-t-flow-step-title-counter fl-body fl-body-2xs fl-u-text-uppercase fl-u-font-medium">
+      
+        Browser
+      
+      
+    </h2>
+  </div>
+
+  
+    <h3 id="all-product-selection" class="fl-c-flow-selection fl-heading fl-heading-xs">Firefox Beta
+      
+
+<a
+  class="fl-button button-ghost fl-button-small load-content-partial "
+  href="/en-US/download/all/"
+  
+  
+  
+  
+  aria-labelledby="all-product all-product-selection"
+>
+  
+    
+    
+
+<span class="fl-icon fl-icon-left  fl-icon-edit" aria-hidden="true" ></span>
+  
+  Edit
+  
+</a>
+    </h3>
+  
+  </div>
+      
+
+
+
+
+<div tabindex="-1" aria-labelledby="all-platform" class="fl-c-flow-section c-step-name ">
+  <div class="fl-c-flow-step">
+    <span class="fl-c-flow-step-checkbox">
+
+<span class="fl-icon   fl-icon-checkmark" ></span></span>
+    <h2 id="all-platform" class="fl-c-flow-step-title fl-t-flow-step-title-counter fl-body fl-body-2xs fl-u-text-uppercase fl-u-font-medium">
+      
+        Platform
+      
+    
+    </h2>
+  </div>
+
+  
+    <h3 id="all-platform-selection" class="fl-c-flow-selection fl-heading fl-heading-xs">Windows 64-bit MSI
+      
+      
+
+<a
+  class="fl-button button-ghost fl-button-small load-content-partial "
+  href="/en-US/download/all/desktop-beta/"
+  
+  
+  
+  
+  aria-labelledby="all-platform all-platform-selection"
+>
+  
+    
+    
+
+<span class="fl-icon fl-icon-left  fl-icon-edit" aria-hidden="true" ></span>
+  
+  Edit
+  
+</a>
+      
+    </span>
+  
+
+
+</div>
+      
+
+
+
+<div tabindex="-1" aria-labelledby="all-lang" class="fl-c-flow-section c-step-name ">
+  <div class="fl-c-flow-step">
+    <span class="fl-c-flow-step-checkbox"></span>
+    <h2 id="all-lang" class="fl-c-flow-step-title fl-t-flow-step-title-counter fl-body fl-body-2xs fl-u-text-uppercase fl-u-font-medium">
+      
+        Language
+      
+    </h2>
+  </div>
+
+  
+
+
+<div class="fl-c-flow-options">
+  <ul class="c-lang-list fl-c-unstyled-list">
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/en-US/" class="load-content-partial">English (US) - English (US)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ach/" class="load-content-partial">Acholi - Acholi</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/af/" class="load-content-partial">Afrikaans - Afrikaans</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/sq/" class="load-content-partial">Albanian - Shqip</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ar/" class="load-content-partial">Arabic - عربي</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/an/" class="load-content-partial">Aragonese - aragonés</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/hy-AM/" class="load-content-partial">Armenian - Հայերեն</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ast/" class="load-content-partial">Asturian - Asturianu</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/az/" class="load-content-partial">Azerbaijani - Azərbaycanca</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/eu/" class="load-content-partial">Basque - Euskara</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/be/" class="load-content-partial">Belarusian - Беларуская</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/bn/" class="load-content-partial">Bengali - বাংলা</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/bs/" class="load-content-partial">Bosnian - Bosanski</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/br/" class="load-content-partial">Breton - Brezhoneg</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/bg/" class="load-content-partial">Bulgarian - Български</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/my/" class="load-content-partial">Burmese - မြန်မာဘာသာ</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ca/" class="load-content-partial">Catalan - Català</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ca-valencia/" class="load-content-partial">Catalan (Valencian) - Català (Valencià)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/zh-CN/" class="load-content-partial">Chinese (Simplified) - 中文 (简体)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/zh-TW/" class="load-content-partial">Chinese (Traditional) - 正體中文 (繁體)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/hr/" class="load-content-partial">Croatian - Hrvatski</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/cs/" class="load-content-partial">Czech - Čeština</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/da/" class="load-content-partial">Danish - Dansk</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/nl/" class="load-content-partial">Dutch - Nederlands</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/en-GB/" class="load-content-partial">English (British) - English (British)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/en-CA/" class="load-content-partial">English (Canadian) - English (Canadian)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/eo/" class="load-content-partial">Esperanto - Esperanto</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/et/" class="load-content-partial">Estonian - Eesti keel</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/fi/" class="load-content-partial">Finnish - suomi</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/fr/" class="load-content-partial">French - Français</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/fy-NL/" class="load-content-partial">Frisian - Frysk</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/fur/" class="load-content-partial">Friulian - Furlan</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ff/" class="load-content-partial">Fulah - Pulaar-Fulfulde</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/gd/" class="load-content-partial">Gaelic (Scotland) - Gàidhlig</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/gl/" class="load-content-partial">Galician - Galego</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ka/" class="load-content-partial">Georgian - ქართული</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/de/" class="load-content-partial">German - Deutsch</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/el/" class="load-content-partial">Greek - Ελληνικά</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/gn/" class="load-content-partial">Guarani - Avañe&#39;ẽ</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/gu-IN/" class="load-content-partial">Gujarati (India) - ગુજરાતી (ભારત)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/he/" class="load-content-partial">Hebrew - עברית</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/hi-IN/" class="load-content-partial">Hindi (India) - हिन्दी (भारत)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/hu/" class="load-content-partial">Hungarian - magyar</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/is/" class="load-content-partial">Icelandic - íslenska</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/id/" class="load-content-partial">Indonesian - Bahasa Indonesia</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ia/" class="load-content-partial">Interlingua - Interlingua</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ga-IE/" class="load-content-partial">Irish - Gaeilge</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/it/" class="load-content-partial">Italian - Italiano</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ja/" class="load-content-partial">Japanese - 日本語</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/kab/" class="load-content-partial">Kabyle - Taqbaylit</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/kn/" class="load-content-partial">Kannada - ಕನ್ನಡ</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/cak/" class="load-content-partial">Kaqchikel - Maya Kaqchikel</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/kk/" class="load-content-partial">Kazakh - Қазақ</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/km/" class="load-content-partial">Khmer - ខ្មែរ</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ko/" class="load-content-partial">Korean - 한국어</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/lv/" class="load-content-partial">Latvian - Latviešu</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/lij/" class="load-content-partial">Ligurian - Ligure</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/lt/" class="load-content-partial">Lithuanian - Lietuvių</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/dsb/" class="load-content-partial">Lower Sorbian - Dolnoserbšćina</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/mk/" class="load-content-partial">Macedonian - Македонски</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ms/" class="load-content-partial">Malay - Melayu</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/mr/" class="load-content-partial">Marathi - मराठी</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ne-NP/" class="load-content-partial">Nepali - नेपाली</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/nb-NO/" class="load-content-partial">Norwegian (Bokmål) - Norsk bokmål</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/nn-NO/" class="load-content-partial">Norwegian (Nynorsk) - Norsk nynorsk</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/oc/" class="load-content-partial">Occitan (Lengadocian) - occitan (lengadocian)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/fa/" class="load-content-partial">Persian - فارسی</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/pl/" class="load-content-partial">Polish - Polski</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/pt-BR/" class="load-content-partial">Portuguese (Brazilian) - Português (do Brasil)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/pt-PT/" class="load-content-partial">Portuguese (Portugal) - Português (Europeu)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/pa-IN/" class="load-content-partial">Punjabi (India) - ਪੰਜਾਬੀ (ਭਾਰਤ)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ro/" class="load-content-partial">Romanian - Română</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/rm/" class="load-content-partial">Romansh - rumantsch</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ru/" class="load-content-partial">Russian - Русский</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/sat/" class="load-content-partial">Santali - ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/skr/" class="load-content-partial">Saraiki - سرائیکی</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/sc/" class="load-content-partial">Sardinian - Sardu</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/sco/" class="load-content-partial">Scots - Scots</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/sr/" class="load-content-partial">Serbian - Српски</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/szl/" class="load-content-partial">Silesian - Ślōnsko godka</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/si/" class="load-content-partial">Sinhala - සිංහල</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/sk/" class="load-content-partial">Slovak - slovenčina</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/sl/" class="load-content-partial">Slovenian - Slovenščina</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/son/" class="load-content-partial">Songhai - Soŋay</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/es-AR/" class="load-content-partial">Spanish (Argentina) - Español (de Argentina)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/es-CL/" class="load-content-partial">Spanish (Chile) - Español (de Chile)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/es-MX/" class="load-content-partial">Spanish (Mexico) - Español (de México)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/es-ES/" class="load-content-partial">Spanish (Spain) - Español (de España)</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/sv-SE/" class="load-content-partial">Swedish - Svenska</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/tl/" class="load-content-partial">Tagalog - Tagalog</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/tg/" class="load-content-partial">Tajik - Тоҷикӣ</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ta/" class="load-content-partial">Tamil - தமிழ்</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/te/" class="load-content-partial">Telugu - తెలుగు</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/th/" class="load-content-partial">Thai - ไทย</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/trs/" class="load-content-partial">Triqui - Triqui</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/tr/" class="load-content-partial">Turkish - Türkçe</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/uk/" class="load-content-partial">Ukrainian - Українська</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/hsb/" class="load-content-partial">Upper Sorbian - Hornjoserbsce</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/ur/" class="load-content-partial">Urdu - اُردو</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/uz/" class="load-content-partial">Uzbek - Oʻzbek tili</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/vi/" class="load-content-partial">Vietnamese - Tiếng Việt</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/cy/" class="load-content-partial">Welsh - Cymraeg</a></li>
+    
+      <li><a href="/en-US/download/all/desktop-beta/win64-msi/xh/" class="load-content-partial">Xhosa - isiXhosa</a></li>
+    
+  </ul>
+</div>
+
+</div>
+      
+
+
+
+
+<div tabindex="-1" aria-labelledby="all-download" class="fl-c-flow-section c-step-name t-step-disabled">
+  <div class="fl-c-flow-step">
+    <span class="fl-c-flow-step-checkbox"></span>
+    <h2 id="all-download" class="fl-c-flow-step-title fl-t-flow-step-title-counter fl-body fl-body-2xs fl-u-text-uppercase fl-u-font-medium">
+    
+      Download
+    
+    </h2>
+  </div>
+
+
+</div>
+    </section>
+    <section class="fl-c-flow-links fl-t-flow-links-desktop">
+      
+        
+          <ul class="fl-c-unstyled-list">
+            <li><a href="/en-US/firefox/beta/system-requirements/">Check the system requirements</a></li>
+            <li><a href="/en-US/firefox/beta/notes/">Release notes</a></li>
+            <li><a href="https://firefox-source-docs.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=firefox-all">Source code</a></li>
+          </ul>
+        
+      
+      <ul class="fl-c-unstyled-list">
+        <li><a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=firefox-all">Firefox Privacy Notice</a></li>
+        <li><a href="https://support.mozilla.org/products/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=firefox-all&utm_content=need-help-link">Need help?</a></li>
+      </ul>
+    </section>
+  </div>
+</main>
+
+
+    
+
+      
+      
+
+      
+      
+
+    
+
+    
+      
+
+
+
+
+<footer class="fl-footer">
+  <div class="fl-footer-inner">
+    
+
+    <div class="fl-footer-sections-list fl-footer-sections-list-desktop" data-testid="fl-footer-desktop">
+      
+
+<section class="fl-footer-section fl-footer-section-download" aria-label="Download">
+  <h2 class="fl-footer-heading">
+    Download
+  </h2>
+  <ul class="fl-footer-list">
+    <li><a href="/thanks/" data-link-type="Desktop" data-download-os="Desktop" data-download-version="standard" data-link-position="footer" data-link-text="Download Firefox">Download Firefox</a></li>
+    <li><a href="/en-US/download/windows/" data-link-position="footer" data-link-text="Windows">Windows</a></li>
+    <li><a href="/en-US/download/mac/" data-link-position="footer" data-link-text="Mac">macOS</a></li>
+    <li><a href="/en-US/download/ios/" data-link-position="footer" data-link-text="iOS">iOS</a></li>
+    <li><a href="/en-US/download/android/" data-link-position="footer" data-link-text="Android">Android</a></li>
+    <li><a href="/en-US/download/linux/" data-link-position="footer" data-link-text="Linux">Linux</a></li>
+    <li><a href="/en-US/download/all/" data-link-position="footer" data-link-text="Custom Download">Custom Download Options</a></li>
+  </ul>
+</section>
+      
+
+<section class="fl-footer-section fl-footer-section-builds">
+  <div class="fl-footer-section-latest">
+    <h2 class="fl-footer-heading">Latest Builds</h2>
+    <ul class="fl-footer-list">
+      <li><a href="/en-US/channel/desktop/#nightly" data-link-position="footer" data-link-text="Nightly">Nightly</a></li>
+      <li><a href="/en-US/channel/desktop/#beta" data-link-position="footer" data-link-text="Beta">Beta</a></li>
+    </ul>
+  </div>
+  <div class="fl-footer-section-business">
+    <h2 class="fl-footer-heading">Firefox for Business</h2>
+    <ul class="fl-footer-list">
+      <li><a href="/en-US/browsers/enterprise/" data-link-position="footer" data-link-text="Enterprise">Enterprise</a></li>
+    </ul>
+  </div>
+</section>
+      
+
+<section class="fl-footer-section fl-footer-section-community" aria-label="Community">
+  <h2 class="fl-footer-heading">
+    Community
+  </h2>
+  <ul class="fl-footer-list">
+    <li><a href="https://connect.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Connect">Connect</a></li>
+    <li><a href="https://www.mozilla.org/contribute/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Contribute">Contribute</a></li>
+    <li><a href="/en-US/channel/desktop/developer/" data-link-position="footer" data-link-text="Developer">Developer</a></li>
+  </ul>
+</section>
+      
+
+<section class="fl-footer-section fl-footer-section-resources" aria-label="Resources">
+  <h2 class="fl-footer-heading">
+    Resources
+  </h2>
+  <ul class="fl-footer-list">
+    <li><a href="/en-US/compare/" data-link-position="footer" data-link-text="Compare">Compare</a></li>
+    <li><a href="/en-US/firefox/notes/" data-link-position="footer" data-link-text="Release Notes">Release Notes</a></li>
+    <li><a href="/en-US/more/" data-link-position="footer" data-link-text="Learn">Learn</a></li>
+    <li><a href="https://support.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Support">Support</a></li>
+    <li><a href="https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Add ons">Add-ons</a></li>
+    <li><a href="https://community.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Community">Community</a></li>
+    <li><a href="https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Blog">Blog</a></li>
+  </ul>
+</section>
+      
+
+<section class="fl-footer-section fl-footer-section-follow" aria-label="footer-follow">
+  <h2 class="fl-footer-heading">
+    Follow Us
+  </h2>
+  <ul class="fl-footer-list">
+    <li><a class="instagram" href="https://www.instagram.com/firefox/" data-link-position="footer" data-link-text="Instagram">Instagram<span></span></a></li>
+    <li><a class="youtube" href="https://www.youtube.com/user/firefoxchannel" data-link-position="footer" data-link-text="YouTube">YouTube<span></span></a></li>
+    <li><a class="tiktok" href="https://www.tiktok.com/@firefox" data-link-position="footer" data-link-text="TikTok">TikTok<span></span></a></li>
+    <li><a class="bluesky" href="https://bsky.app/profile/firefox.com" data-link-position="footer" data-link-text="Bluesky" translate="no">Bluesky<span></span></a></li>
+    <li><a class="podcast" href="https://www.youtube.com/@firefox/podcasts" data-link-position="footer" data-link-text="Podcast" translate="no">Podcast<span></span></a></li>
+  </ul>
+</section>
+      
+
+<section class="fl-footer-section fl-footer-section-lang-select">
+  
+  <form id="lang_form" class="fl-language-switcher fl-icon-globe" method="get" action="#">
+    <a class="fl-language-switcher-link" href="/locales/">Language</a>
+    <label for="page-language-select">Language</label>
+    <div class="fl-language-switcher-select-wrapper fl-icon-chevron-down">
+      <select id="page-language-select" class="fl-language-switcher-select" name="lang" dir="ltr" data-testid="footer-language-select">
+        
+          <option lang="ar" value="ar">عربي</option>
+        
+          <option lang="be" value="be">Беларуская</option>
+        
+          <option lang="bs" value="bs">Bosanski</option>
+        
+          <option lang="cs" value="cs">Čeština</option>
+        
+          <option lang="cy" value="cy">Cymraeg</option>
+        
+          <option lang="da" value="da">Dansk</option>
+        
+          <option lang="de" value="de">Deutsch</option>
+        
+          <option lang="dsb" value="dsb">Dolnoserbšćina</option>
+        
+          <option lang="el" value="el">Ελληνικά</option>
+        
+          <option lang="en-CA" value="en-CA">English (Canadian)</option>
+        
+          <option lang="en-GB" value="en-GB">English (British)</option>
+        
+          <option lang="en-US" value="en-US" selected>English</option>
+        
+          <option lang="es-AR" value="es-AR">Español (de Argentina)</option>
+        
+          <option lang="es-CL" value="es-CL">Español (de Chile)</option>
+        
+          <option lang="es-ES" value="es-ES">Español (de España)</option>
+        
+          <option lang="es-MX" value="es-MX">Español (de México)</option>
+        
+          <option lang="fa" value="fa">فارسی</option>
+        
+          <option lang="fi" value="fi">suomi</option>
+        
+          <option lang="fr" value="fr">Français</option>
+        
+          <option lang="fy-NL" value="fy-NL">Frysk</option>
+        
+          <option lang="gl" value="gl">Galego</option>
+        
+          <option lang="gn" value="gn">Avañe'ẽ</option>
+        
+          <option lang="he" value="he">עברית</option>
+        
+          <option lang="hi-IN" value="hi-IN">हिन्दी (भारत)</option>
+        
+          <option lang="hr" value="hr">Hrvatski</option>
+        
+          <option lang="hsb" value="hsb">Hornjoserbsce</option>
+        
+          <option lang="hu" value="hu">magyar</option>
+        
+          <option lang="hy-AM" value="hy-AM">Հայերեն</option>
+        
+          <option lang="ia" value="ia">Interlingua</option>
+        
+          <option lang="id" value="id">Bahasa Indonesia</option>
+        
+          <option lang="is" value="is">íslenska</option>
+        
+          <option lang="it" value="it">Italiano</option>
+        
+          <option lang="ja" value="ja">日本語</option>
+        
+          <option lang="ka" value="ka">ქართული</option>
+        
+          <option lang="kab" value="kab">Taqbaylit</option>
+        
+          <option lang="kk" value="kk">Қазақ</option>
+        
+          <option lang="km" value="km">ខ្មែរ</option>
+        
+          <option lang="ko" value="ko">한국어</option>
+        
+          <option lang="lo" value="lo">ພາສາລາວ</option>
+        
+          <option lang="ms" value="ms">Melayu</option>
+        
+          <option lang="nb-NO" value="nb-NO">Norsk bokmål</option>
+        
+          <option lang="nl" value="nl">Nederlands</option>
+        
+          <option lang="nn-NO" value="nn-NO">Norsk nynorsk</option>
+        
+          <option lang="pa-IN" value="pa-IN">ਪੰਜਾਬੀ (ਭਾਰਤ)</option>
+        
+          <option lang="pl" value="pl">Polski</option>
+        
+          <option lang="pt-BR" value="pt-BR">Português (do Brasil)</option>
+        
+          <option lang="pt-PT" value="pt-PT">Português (Europeu)</option>
+        
+          <option lang="rm" value="rm">rumantsch</option>
+        
+          <option lang="ro" value="ro">Română</option>
+        
+          <option lang="ru" value="ru">Русский</option>
+        
+          <option lang="sk" value="sk">slovenčina</option>
+        
+          <option lang="skr" value="skr">سرائیکی</option>
+        
+          <option lang="sl" value="sl">Slovenščina</option>
+        
+          <option lang="sq" value="sq">Shqip</option>
+        
+          <option lang="sr" value="sr">Српски</option>
+        
+          <option lang="sv-SE" value="sv-SE">Svenska</option>
+        
+          <option lang="tg" value="tg">Тоҷикӣ</option>
+        
+          <option lang="th" value="th">ไทย</option>
+        
+          <option lang="tr" value="tr">Türkçe</option>
+        
+          <option lang="uk" value="uk">Українська</option>
+        
+          <option lang="uz" value="uz">Oʻzbek tili</option>
+        
+          <option lang="vi" value="vi">Tiếng Việt</option>
+        
+          <option lang="zh-CN" value="zh-CN">中文 (简体)</option>
+        
+          <option lang="zh-TW" value="zh-TW">正體中文 (繁體)</option>
+        
+      </select>
+    </div>
+    <button type="submit">Go</button>
+  </form>
+
+  <div class="fl-footer-brand">
+    <h3 class="fl-footer-heading">Powered by Mozilla</h3>
+    <a href="https://connect.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Ask us a question!">Ask us a question!</a>
+  </div>
+</section>
+    </div>
+
+    <div class="fl-footer-sections-list fl-footer-sections-list-mobile" data-testid="fl-footer-mobile">
+      <div class="fl-footer-sections-list-column">
+        
+
+<section class="fl-footer-section fl-footer-section-download" aria-label="Download">
+  <h2 class="fl-footer-heading">
+    Download
+  </h2>
+  <ul class="fl-footer-list">
+    <li><a href="/thanks/" data-link-type="Desktop" data-download-os="Desktop" data-download-version="standard" data-link-position="footer" data-link-text="Download Firefox">Download Firefox</a></li>
+    <li><a href="/en-US/download/windows/" data-link-position="footer" data-link-text="Windows">Windows</a></li>
+    <li><a href="/en-US/download/mac/" data-link-position="footer" data-link-text="Mac">macOS</a></li>
+    <li><a href="/en-US/download/ios/" data-link-position="footer" data-link-text="iOS">iOS</a></li>
+    <li><a href="/en-US/download/android/" data-link-position="footer" data-link-text="Android">Android</a></li>
+    <li><a href="/en-US/download/linux/" data-link-position="footer" data-link-text="Linux">Linux</a></li>
+    <li><a href="/en-US/download/all/" data-link-position="footer" data-link-text="Custom Download">Custom Download Options</a></li>
+  </ul>
+</section>
+        
+
+<section class="fl-footer-section fl-footer-section-resources" aria-label="Resources">
+  <h2 class="fl-footer-heading">
+    Resources
+  </h2>
+  <ul class="fl-footer-list">
+    <li><a href="/en-US/compare/" data-link-position="footer" data-link-text="Compare">Compare</a></li>
+    <li><a href="/en-US/firefox/notes/" data-link-position="footer" data-link-text="Release Notes">Release Notes</a></li>
+    <li><a href="/en-US/more/" data-link-position="footer" data-link-text="Learn">Learn</a></li>
+    <li><a href="https://support.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Support">Support</a></li>
+    <li><a href="https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Add ons">Add-ons</a></li>
+    <li><a href="https://community.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Community">Community</a></li>
+    <li><a href="https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Blog">Blog</a></li>
+  </ul>
+</section>
+      </div>
+
+      <div class="fl-footer-sections-list-column">
+        
+
+<section class="fl-footer-section fl-footer-section-builds">
+  <div class="fl-footer-section-latest">
+    <h2 class="fl-footer-heading">Latest Builds</h2>
+    <ul class="fl-footer-list">
+      <li><a href="/en-US/channel/desktop/#nightly" data-link-position="footer" data-link-text="Nightly">Nightly</a></li>
+      <li><a href="/en-US/channel/desktop/#beta" data-link-position="footer" data-link-text="Beta">Beta</a></li>
+    </ul>
+  </div>
+  <div class="fl-footer-section-business">
+    <h2 class="fl-footer-heading">Firefox for Business</h2>
+    <ul class="fl-footer-list">
+      <li><a href="/en-US/browsers/enterprise/" data-link-position="footer" data-link-text="Enterprise">Enterprise</a></li>
+    </ul>
+  </div>
+</section>
+        
+
+<section class="fl-footer-section fl-footer-section-community" aria-label="Community">
+  <h2 class="fl-footer-heading">
+    Community
+  </h2>
+  <ul class="fl-footer-list">
+    <li><a href="https://connect.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Connect">Connect</a></li>
+    <li><a href="https://www.mozilla.org/contribute/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Contribute">Contribute</a></li>
+    <li><a href="/en-US/channel/desktop/developer/" data-link-position="footer" data-link-text="Developer">Developer</a></li>
+  </ul>
+</section>
+        
+
+<section class="fl-footer-section fl-footer-section-follow" aria-label="footer-follow">
+  <h2 class="fl-footer-heading">
+    Follow Us
+  </h2>
+  <ul class="fl-footer-list">
+    <li><a class="instagram" href="https://www.instagram.com/firefox/" data-link-position="footer" data-link-text="Instagram">Instagram<span></span></a></li>
+    <li><a class="youtube" href="https://www.youtube.com/user/firefoxchannel" data-link-position="footer" data-link-text="YouTube">YouTube<span></span></a></li>
+    <li><a class="tiktok" href="https://www.tiktok.com/@firefox" data-link-position="footer" data-link-text="TikTok">TikTok<span></span></a></li>
+    <li><a class="bluesky" href="https://bsky.app/profile/firefox.com" data-link-position="footer" data-link-text="Bluesky" translate="no">Bluesky<span></span></a></li>
+    <li><a class="podcast" href="https://www.youtube.com/@firefox/podcasts" data-link-position="footer" data-link-text="Podcast" translate="no">Podcast<span></span></a></li>
+  </ul>
+</section>
+      </div>
+
+      
+
+<section class="fl-footer-section fl-footer-section-lang-select">
+  
+  <form id="lang_form" class="fl-language-switcher fl-icon-globe" method="get" action="#">
+    <a class="fl-language-switcher-link" href="/locales/">Language</a>
+    <label for="page-language-select">Language</label>
+    <div class="fl-language-switcher-select-wrapper fl-icon-chevron-down">
+      <select id="page-language-select" class="fl-language-switcher-select" name="lang" dir="ltr" data-testid="footer-language-select">
+        
+          <option lang="ar" value="ar">عربي</option>
+        
+          <option lang="be" value="be">Беларуская</option>
+        
+          <option lang="bs" value="bs">Bosanski</option>
+        
+          <option lang="cs" value="cs">Čeština</option>
+        
+          <option lang="cy" value="cy">Cymraeg</option>
+        
+          <option lang="da" value="da">Dansk</option>
+        
+          <option lang="de" value="de">Deutsch</option>
+        
+          <option lang="dsb" value="dsb">Dolnoserbšćina</option>
+        
+          <option lang="el" value="el">Ελληνικά</option>
+        
+          <option lang="en-CA" value="en-CA">English (Canadian)</option>
+        
+          <option lang="en-GB" value="en-GB">English (British)</option>
+        
+          <option lang="en-US" value="en-US" selected>English</option>
+        
+          <option lang="es-AR" value="es-AR">Español (de Argentina)</option>
+        
+          <option lang="es-CL" value="es-CL">Español (de Chile)</option>
+        
+          <option lang="es-ES" value="es-ES">Español (de España)</option>
+        
+          <option lang="es-MX" value="es-MX">Español (de México)</option>
+        
+          <option lang="fa" value="fa">فارسی</option>
+        
+          <option lang="fi" value="fi">suomi</option>
+        
+          <option lang="fr" value="fr">Français</option>
+        
+          <option lang="fy-NL" value="fy-NL">Frysk</option>
+        
+          <option lang="gl" value="gl">Galego</option>
+        
+          <option lang="gn" value="gn">Avañe'ẽ</option>
+        
+          <option lang="he" value="he">עברית</option>
+        
+          <option lang="hi-IN" value="hi-IN">हिन्दी (भारत)</option>
+        
+          <option lang="hr" value="hr">Hrvatski</option>
+        
+          <option lang="hsb" value="hsb">Hornjoserbsce</option>
+        
+          <option lang="hu" value="hu">magyar</option>
+        
+          <option lang="hy-AM" value="hy-AM">Հայերեն</option>
+        
+          <option lang="ia" value="ia">Interlingua</option>
+        
+          <option lang="id" value="id">Bahasa Indonesia</option>
+        
+          <option lang="is" value="is">íslenska</option>
+        
+          <option lang="it" value="it">Italiano</option>
+        
+          <option lang="ja" value="ja">日本語</option>
+        
+          <option lang="ka" value="ka">ქართული</option>
+        
+          <option lang="kab" value="kab">Taqbaylit</option>
+        
+          <option lang="kk" value="kk">Қазақ</option>
+        
+          <option lang="km" value="km">ខ្មែរ</option>
+        
+          <option lang="ko" value="ko">한국어</option>
+        
+          <option lang="lo" value="lo">ພາສາລາວ</option>
+        
+          <option lang="ms" value="ms">Melayu</option>
+        
+          <option lang="nb-NO" value="nb-NO">Norsk bokmål</option>
+        
+          <option lang="nl" value="nl">Nederlands</option>
+        
+          <option lang="nn-NO" value="nn-NO">Norsk nynorsk</option>
+        
+          <option lang="pa-IN" value="pa-IN">ਪੰਜਾਬੀ (ਭਾਰਤ)</option>
+        
+          <option lang="pl" value="pl">Polski</option>
+        
+          <option lang="pt-BR" value="pt-BR">Português (do Brasil)</option>
+        
+          <option lang="pt-PT" value="pt-PT">Português (Europeu)</option>
+        
+          <option lang="rm" value="rm">rumantsch</option>
+        
+          <option lang="ro" value="ro">Română</option>
+        
+          <option lang="ru" value="ru">Русский</option>
+        
+          <option lang="sk" value="sk">slovenčina</option>
+        
+          <option lang="skr" value="skr">سرائیکی</option>
+        
+          <option lang="sl" value="sl">Slovenščina</option>
+        
+          <option lang="sq" value="sq">Shqip</option>
+        
+          <option lang="sr" value="sr">Српски</option>
+        
+          <option lang="sv-SE" value="sv-SE">Svenska</option>
+        
+          <option lang="tg" value="tg">Тоҷикӣ</option>
+        
+          <option lang="th" value="th">ไทย</option>
+        
+          <option lang="tr" value="tr">Türkçe</option>
+        
+          <option lang="uk" value="uk">Українська</option>
+        
+          <option lang="uz" value="uz">Oʻzbek tili</option>
+        
+          <option lang="vi" value="vi">Tiếng Việt</option>
+        
+          <option lang="zh-CN" value="zh-CN">中文 (简体)</option>
+        
+          <option lang="zh-TW" value="zh-TW">正體中文 (繁體)</option>
+        
+      </select>
+    </div>
+    <button type="submit">Go</button>
+  </form>
+
+  <div class="fl-footer-brand">
+    <h3 class="fl-footer-heading">Powered by Mozilla</h3>
+    <a href="https://connect.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Ask us a question!">Ask us a question!</a>
+  </div>
+</section>
+    </div>
+
+  </div>
+
+  <div class="fl-footer-secondary">
+    <div class="fl-footer-legal">
+      <ul class="fl-footer-terms">
+        
+        <li><a href="https://www.mozilla.org/en-US/privacy/websites/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Privacy">Website Privacy Notice</a></li>
+        <li><a href="https://www.mozilla.org/about/legal/terms/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Terms of Use">Terms of Use</a></li>
+        <li>
+          
+          <a href="/en-US/privacy/websites/cookie-settings/" data-link-position="footer" data-link-text="Cookies">Cookie Policy</a>
+        </li>
+        <li><a href="https://www.mozilla.org/en-US/about/governance/policies/participation/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Community Participation Guidelines">Community Participation Guidelines</a></li>
+        <li><a href="https://www.mozilla.org/foundation/trademarks/policy/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Logo Trademark Licensing">Logo Trademark Licensing</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+    
+
+    
+      
+
+<aside class="fl-consent-banner text-center fl-force-dark-theme" id="moz-consent-banner" role="region" aria-label="Cookie Banner" data-nosnippet="true" data-testid="consent-banner">
+  <div class="fl-consent-banner-content">
+    <h2 class="fl-consent-banner-heading fl-heading fl-heading-size-3">Help us improve your firefox.com experience</h2>
+    <div class="fl-consent-banner-copy">
+      <p>In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy.</p>
+      <div class="fl-buttons">
+        <button type="button" id="moz-consent-banner-button-accept" class="fl-button fl-button-small button-primary" data-testid="consent-banner-accept-button">
+          Accept All Additional Cookies
+        </button>
+        <button type="button" id="moz-consent-banner-button-reject" class="fl-button fl-button-small button-secondary" data-testid="consent-banner-reject-button">
+          Reject All Additional Cookies
+        </button>
+      </div>
+      <p><a href="/en-US/privacy/websites/cookie-settings/">
+          Cookie settings
+        </a></p>
+    </div>
+  </div>
+</aside>
+    
+
+    
+
+
+    
+    
+      
+        <!--[if !IE]><!-->
+          
+          <script src="https://www.firefox.com/media/js/sentry.2f57b70e06a9.js"></script>
+        <!--<![endif]-->
+      
+    
+
+    
+    <script src="https://www.firefox.com/media/js/lib.e2b23aae3afc.js"></script>
+    <script src="https://www.firefox.com/media/js/data.66a011d9be0e.js"></script>
+    <script src="https://www.firefox.com/media/js/firefox-cms-flare26.f2a9f264f023.js"></script>
+    <script src="https://www.firefox.com/media/js/ui-tour-buttons.f0c19e3300a5.js"></script>
+    <script src="https://www.firefox.com/media/js/flare-navigation.17c4a3a73443.js"></script>
+    <script src="https://www.firefox.com/media/js/flare-lang-switcher.90adb422979f.js"></script>
+    
+
+    
+    <!--[if IE 9]><!-->
+      
+      <script src="https://www.firefox.com/media/js/consent-banner.35e30dbc9f8f.js"></script>
+    <!--<![endif]-->
+    
+
+    
+      
+        <!--[if IE 9]><!-->
+          
+          <script src="https://www.firefox.com/media/js/stub-attribution.502fd79d417f.js"></script>
+        <!--<![endif]-->
+      
+
+      
+      <script src="https://www.firefox.com/media/js/download_as_default.740bb0ac58b9.js"></script>
+    
+
+    
+  <script src="https://www.firefox.com/media/js/firefox_all.3c81fd9da67c.js"></script>
+
+  </body>
+
+</html>
